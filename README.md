@@ -81,6 +81,3 @@ safetynet/
 └── package.json
 ```
 
-## License
-
-MIT
